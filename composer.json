@@ -34,10 +34,5 @@
             "Restful\\Test\\": "tests"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "master": "1.0.2"
-        }
-    },
     "minimum-stability": "beta"
 }
