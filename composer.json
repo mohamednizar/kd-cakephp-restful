@@ -8,11 +8,11 @@
     "authors": [
         {
             "name": "KORDIT PHP DEVELOPERS",
-            "homepage": "https://bitbucket.org/korditpteltd/kd-cakephp-restful/commits/all"
+            "homepage": "https://github.com/mohamednizar/kd-cakephp-restful/commits/all"
         }
     ],
     "support": {
-        "source": "https://bitbucket.org/korditpteltd/kd-cakephp-restful/src"
+        "source": "https://github.com/mohamednizar/kd-cakephp-restful/src"
     },
     "require": {
         "cakephp/cakephp": ">=3.3.0",
